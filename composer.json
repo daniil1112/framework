@@ -1,0 +1,17 @@
+{
+    "name": "daniu/create",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "vendor/Framework",
+            "Cms\\": "cms",
+            "Engine\\DI\\": "engine/DI",
+            "Admin\\": "admin",
+            "App\\": "app/"
+
+}
+},
+    "require-dev": {
+        "symfony/var-dumper": "^4.3"
+    }
+}
