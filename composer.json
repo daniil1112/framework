@@ -1,5 +1,5 @@
 {
-    "name": "daniu/create",
+    "name": "danfr/framework",
     "require": {},
     "autoload": {
         "psr-4": {
